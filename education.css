@@ -498,7 +498,7 @@ when hovering over it with the muse
         visibility: hidden;
         height: 50vh;
         z-index: -1;
-        background: #131313;
+        background: black;
     }
 
     .navbar__menu.active {
